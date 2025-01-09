@@ -27,10 +27,8 @@ If you're interested in collaborating or exploring these areas, I’d love to co
 
 ## Contact
 I’m always looking for opportunities to share ideas, collaborate, and explore new applications of AI, Web3, and IT. Here’s how you can reach me:
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle) (quick updates and discussions)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile) (professional connections)
-- **GitHub Issues**: Feel free to open an [issue](https://github.com/your-repo/issues) for suggestions or feedback!
+- **Email**: [alex.tkachev.odessa@gmail.com](mailto:alex.tkachev.odessa@gmail.com)
+- **LinkedIn**: [Aleksandr Tkachov](https://www.linkedin.com/in/alexander-tkachev-odessa-ukraine/) (professional connections)
 
 ## How to Get Involved
 1. **Follow this repository**: Stay updated on this and future projects.
