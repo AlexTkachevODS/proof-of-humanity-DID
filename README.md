@@ -26,7 +26,7 @@ If you're interested in collaborating or exploring these areas, I’d love to co
 - **Personal and Business AI Integration**: Potential extensions into AI-powered identity systems for secure, seamless applications.
 
 ## Invention Description
-For a detailed explanation of the Decentralized Biometric Proof-of-Humanity (PoH) system, see the [Full Invention Description](Biometric PoH with DID Generation.pdf).
+For a detailed explanation of the Decentralized Biometric Proof-of-Humanity (PoH) system, see the [Full Invention Description](Biometric_PoH_with_DID_Generation.pdf).
 
 ## Contact
 I’m always looking for opportunities to share ideas, collaborate, and explore new applications of AI, Web3, and IT. Here’s how you can reach me:
